@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 hoje estou aprendendo HTML e CSS
-- 👯 procuro ajuda com HTML
-- 📫 contato: https://www.instagram.com/gbelchiorr_/
-- 😄 Pronouns: ele/dele
+- 🌱 hoje estou aprendendo Web FullStack
+- 👯 procuro ajuda com python
+- 📫 contato: guibelchiorrb@gmail.com
