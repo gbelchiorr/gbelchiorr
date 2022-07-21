@@ -1,5 +1,5 @@
-### Hi there 👋
+### hi there 👋
 
-- 🌱 hoje estou aprendendo Web FullStack
-- 👯 procuro ajuda com python
+- 🌱 today i am learning python
+- 👯 19 years
 - 📫 contato: guibelchiorrb@gmail.com
